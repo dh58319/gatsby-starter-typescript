@@ -26,7 +26,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          DevDex
         </Link>
       </h1>
     </div>
